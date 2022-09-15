@@ -49,14 +49,14 @@
 }
 .box2{
     width: 100%;
-    height: 20%;
+    height: 22%;
     background-color:lightgrey;
     display: flex;
     align-items: center;
     justify-content: center;
 
 }
-.btn{
+.btn1{
     height: 50px;
     width: 150px;
     background-color: aqua;
@@ -66,7 +66,7 @@
 }
 .box10{
     margin: 50px;
-    width: 100%;
+    width: 60%;
     height: 400px;
     background-color:white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px 0  rgba(0, 0, 0, 20);
@@ -79,6 +79,10 @@
     align-items: center;
     
     
+}
+.input-field{
+    border: none;
+    border-bottom: 1px solid grey;
 }
 
 .text9{
@@ -98,4 +102,9 @@
     width: 100%;
     
     
+}
+
+.font-size{
+    font-size: 50px;
+    color: gold;
 }
